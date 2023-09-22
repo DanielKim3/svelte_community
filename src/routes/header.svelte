@@ -17,6 +17,6 @@
   </div>
   <div  >
     <a href="/login" class="btn btn-ghost rounded-btn">로그인</a>
-    <a href="#top" class="btn btn-ghost rounded-btn">회원가입</a>
+    <a href="/sign-up" class="btn btn-ghost rounded-btn">회원가입</a>
 </div>
 </div>
