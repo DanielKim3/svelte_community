@@ -2,6 +2,7 @@
   import logo from "../assets/logo.png"
 </script>
 
+
 <div class="navbar bg-base-300 flex justify-between h-24">
   <div>
     <a href="/" class="text-lg font-bold">
